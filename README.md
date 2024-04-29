@@ -1,5 +1,5 @@
 # Your Project's Title...
-Your project's description...
+Training environment for AEM/EDS practice coding
 
 ## Environments
 - Preview: https://main--AEM-EDS_TESTING--aschlitty.hlx.page/

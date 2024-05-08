@@ -2,8 +2,8 @@
 Training environment for AEM/EDS practice coding
 
 ## Environments
-- Preview: https://main--AEM-EDS_TESTING--aschlitty.hlx.page/
-- Live: https://main--AEM-EDS_TESTING--aschlitty.hlx.live/
+- Preview: https://main--aem-eds_testing--aschlitty.hlx.page/
+- Live: https://main--aem-eds_testing--aschlitty.hlx.live/
 
 ## Installation
 
